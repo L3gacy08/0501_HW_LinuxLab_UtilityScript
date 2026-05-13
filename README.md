@@ -2,7 +2,7 @@
 
 ## What the Script Does
 
-The script creates folders, makes sample files, copies files to a backup folder, moves files, removes a temporary file, and creates a report.
+The script makes folders, makes sample files, copies files to a backup folder, moves files, removes a temp file, and makes a report.
 
 ## Commands used
 
