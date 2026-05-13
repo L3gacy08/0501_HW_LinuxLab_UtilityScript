@@ -19,9 +19,9 @@ The script creates folders, makes sample files, copies files to a backup folder,
 
 ## Why use these commands?
 
-These commands help organize files, make backups, clean up files, and make a report.
+These commands help organize files, make backups, delete files, and can make a report.
 
-## Usage
+## How to run the script 😊
 
 Make the script executable:
 
