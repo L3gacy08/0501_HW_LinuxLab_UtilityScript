@@ -28,19 +28,19 @@ cp -v departments/hr/payroll.txt backup/
 # moves temp file
 mv temp.txt old_temp.txt
 
-# delete old temp file
+# deletes old temp file
 rm -i old_temp.txt
 
-# putting date into report
+# puts date into report
 date > report.txt
 
-# writing stuff into report
+# writes stuff into report
 echo "directories created: departments/hr and backup" >> report.txt
 echo "copied: payroll.txt to backup" >> report.txt
 echo "moved: temp.txt to old_temp.txt" >> report.txt
 echo "deleted: old_temp.txt" >> report.txt
 
-# showing final report
+# shows final report
 cat report.txt
 
 # message shows script is done
